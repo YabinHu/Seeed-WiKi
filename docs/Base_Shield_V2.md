@@ -37,7 +37,7 @@ Grove connectors: Base Shield v2 has sixteen Grove connectors.
 |Analog port|	A0/A1/A2/A3	|4|
 |Digital port|	D2/D3/D4/D5/D6/D7/D8	|7|
 |UART port|	UART|	1|
-| 2C port  |	I2C  |	1 |
+| 2C port  |	I2C  |	4 |
 
 * Dimension: 2.1 * 2.7 inch
 * LED indicator: The Green LED would be lighted up while powering.
